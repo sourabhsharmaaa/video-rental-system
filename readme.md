@@ -1,6 +1,6 @@
 ## Introduction
 
-This an imaginary video rental app. 
+This is an imaginary video rental app. 
 
 ## Setup
 
