@@ -1,6 +1,10 @@
 ## Introduction
 
+<<<<<<< HEAD
 This is an imaginary video rental app.
+=======
+This is an imaginary video rental app. 
+>>>>>>> 8f3a10ffcf4f2b6da782bb607c21f0bdccd9fa34
 
 ## Setup
 
